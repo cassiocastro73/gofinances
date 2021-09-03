@@ -1,15 +1,14 @@
 import React from "react";
-import {View, Text } from 'react-native'
-import { Container } from './styles';
+import { Container, Title } from './styles';
 
 
 
 export function Dashboard(){
     return(
         <Container>
-            <Text>
+            <Title>
                 Dashboard
-            </Text>
+            </Title>
         </Container>
     )
 }
