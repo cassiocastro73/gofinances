@@ -65,7 +65,7 @@ export const Icon = styled(Feather)`
 export const HighlightCards = styled.ScrollView.attrs({
         horizontal: true,
         showsHorizontalScrollIndicator: false,
-        contentContainerStyle: {paddingHorizontal: 24}
+        contentContainerStyle: {paddingHorizontal: 17}
 
 })`
     width: 100%;
